@@ -72,7 +72,7 @@
     background: linear-gradient(145deg, #fff0f5, #ffa3b5);
     transform: scale(1.05);
   }
-    .hero {
+    .camellyawebpagedesign {
       position: relative;
       height: 90vh;
       display: flex;
@@ -83,7 +83,7 @@
       overflow: hidden;
       padding: 0 20px;
     }
-    .hero video.background-video {
+    .camellyawebpagedesign video.background-video {
       position: absolute;
       top: 0;
       left: 0;
@@ -92,26 +92,26 @@
       object-fit: cover;
       z-index: 0;
     }
-    .hero h1, .hero h2, .hero p, .hero .learn-btn {
+    .camellyawebpagedesign h1, .camellyawebpagedesign h2, .camellyawebpagedesign p, .camellyawebpagedesign .learn-btn {
       position: relative;
       z-index: 1;
       text-shadow: 2px 2px 10px #000;
     }
-    .hero h1 {
+    .camellyawebpagedesign h1 {
       font-size: 2.8em;
       margin-bottom: 20px;
     }
-    .hero h2 {
+    .camellyawebpagedesign h2 {
       font-size: 2.2em;
       margin-bottom: 20px;
     }
-    .hero p {
+    .camellyawebpagedesign p {
       max-width: 600px;
       margin-bottom: 30px;
       font-size: 1.1em;
       color: #ffc9d0;
     }
-    .hero .learn-btn {
+    .camellyawebpagedesign .learn-btn {
       padding: 12px 25px;
       background: #ff4d6d;
       border: none;
@@ -122,7 +122,7 @@
       cursor: pointer;
       transition: background 0.3s;
     }
-    .hero .learn-btn:hover {
+    .camellyawebpagedesign .learn-btn:hover {
       background: #ffb3c1;
     }
     section.upcoming {
