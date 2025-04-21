@@ -18,7 +18,7 @@
     background-color: #0e0e0e;
     border-bottom: 1px solid rgba(255, 200, 230, 0.15);
     box-shadow: 0 4px 12px rgba(255, 100, 150, 0.08);
-    z-index: 999; /* Ensure it stays on top of everything */
+    z-index: 999;
   }
   
   
