@@ -53,6 +53,25 @@
     transform: scaleX(1);
     transform-origin: left;
   }
+
+ .Shorekeeper-Btn {
+    float: left 30%;
+    padding: 10px 25px;
+    background: linear-gradient(145deg, #ffd2dd, #ff4d6d);
+    border: none;
+    color: #1a0b0b;
+    font-weight: 700;
+    font-family: 'Playfair Display', serif;
+    border-radius: 30px;
+    box-shadow: 0 4px 15px rgba(255, 77, 109, 0.3);
+    cursor: pointer;
+    transition: background 0.4s ease, transform 0.2s ease;
+  }
+  
+  .Shorekeeper-Btn:hover {
+    background: linear-gradient(145deg, #fff0f5, #ffa3b5);
+    transform: scale(1.05);
+  }
   
   .join-btn {
     padding: 10px 25px;
